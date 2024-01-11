@@ -1,0 +1,2 @@
+# CodeAlpha_Stock_Price_Prediction
+This exciting project deals with the stock price prediction of Google with the updated stock price data till 2023.This includes exploratory data anlysis with graphical visualizations of existing data to get better and keen understanding.As this data is realiable ,there is no need of checking for null values.Dealing with the key attributes like Close price and Open price,we can easily unwrap and predict the upcoming stock price.
